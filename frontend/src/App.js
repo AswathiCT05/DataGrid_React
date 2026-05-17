@@ -81,7 +81,7 @@ export default function App() {
                 p: 0,
               }}
             >
-              BMW Generic DataGrid
+              Generic DataGrid
             </Typography>
             <Box sx={{ flex: 1 }} />
             <FormControlLabel
